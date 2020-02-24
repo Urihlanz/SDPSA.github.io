@@ -333,5 +333,8 @@ main .main_ideology {
     .programm_cards {
         flex-direction: column;
     }
+    
+    .btn_ideology {
+        font-size: 15px;
 
 }
